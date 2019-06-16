@@ -6,3 +6,6 @@ aaaaaaaaaaaaaaaaa
 ccccccccccccccccccc
 ²È²È²È²È²È²È²È²È²È²È²È²È´Ó
 °¡°¡°¡°¡°¡°¡°¡°¡°¡°¡°¡
+add some content to hello.txt
+ssssssssssssssssssss
+ddddddddddddddddddddd
